@@ -233,9 +233,7 @@ pbmc.data  <- Read10X("output/matrix/")
 
 The [3k PBMC dataset](https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.0.0/pbmc3k) from 10x Genomics were used for testing.
 
-The sample outputs can be found [here](https://github.com/HHengUG/hatpal_example/tree/main).
-
-A script to run hatpal automatically can be found [here](https://github.com/HHengUG/hatpal_example) .
+A script to run hatpal automatically can be found [here](https://github.com/HHengUG/hatpal2_example) .
 
 
 
